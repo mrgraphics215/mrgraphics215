@@ -1,4 +1,4 @@
-# Digital 
+# Socreativity Digital Portfolio
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub](https://img.shields.io/badge/GitHub-Mrgraphics215-Red.svg)](https://github.com/your-username)
