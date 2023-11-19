@@ -1,6 +1,6 @@
 # Digital Project Name
 
-[![License](https://img.shields.io/badge/license-MIT-Green.svg)](LICENSE.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub](https://img.shields.io/badge/GitHub-Mrgraphics215-Red.svg)](https://github.com/your-username)
 [![Twitter](https://img.shields.io/twitter/follow/Socreativity1)](https://twitter.com/your_twitter_handle)
 ## Table of Contents
