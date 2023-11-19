@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub](https://img.shields.io/badge/GitHub-Mrgraphics215-Red.svg)](https://github.com/your-username)
-[![Twitter](https://img.shields.io/twitter/follow/Socreativity1)](https://twitter.com/your_twitter_handle)
+[![Twitter](https://img.shields.io/twitter/follow/Socreativity1)](https://twitter.com/Socreativity1)
 ## Table of Contents
 
 - [Project Name](#project-name)
